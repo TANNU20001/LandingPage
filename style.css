@@ -1,0 +1,348 @@
+div.background{
+    background-image: url("Recruit-Truly-Brilliant-People-1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 200px;
+    margin-right: 200px;
+    width:100%;
+    font-family: Arial;
+    
+}
+.navbar{
+    display:flex;
+}
+.mid{
+    padding: 10%;
+    color:#006666;
+    font-size: 25px;
+    margin-top: 0%;
+    line-height: 18px;
+    font-family: sans-serif;
+    font-weight:3000px;
+}
+h3{
+    color:black;
+    line-height: 3px;
+    margin-top: 4%;
+    font-family:Arial;
+    font-weight:lighter;
+    font-size:larger
+}
+h2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    align-items: center;
+    font-family: Arial;
+    
+
+}
+.btnn{
+    margin-top: 0%;
+}
+button{
+    width:200px;
+    height:50px;
+    font-size: 20px;
+    background-color: #006666;
+    color:white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 0%;
+    
+
+}
+.image{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.expertise{
+    background-color: rgb(230, 228, 228);
+    padding: 5%;
+    margin-top: 3%;
+    line-height: 18px;
+
+}
+.upper{
+    color:#006666;
+    font-family: Arial;
+    font-size: 35px;
+    margin-left: 39%;
+    font-weight: bolder;
+
+
+}
+.lower{
+    color:gray;
+    font-family: Arial;
+    font-weight: lighter;
+    margin-left: 33% ;
+    line-height: 0%;
+}
+.experts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.expert1{
+    background-color:white;
+    color:#006666;
+    font-family:Arial;
+}
+.expert2{
+    background-color:white;
+    color:#006666;
+    font-family:Arial;
+}
+.expert3{
+    background-color:white; 
+    color:#006666;
+    font-family:Arial;
+}
+.team{
+    margin-left:25% ;
+    color:#006666;
+    font-family: Arial;
+}
+.team p{
+     margin-left: 5%;
+     color:gray;
+     font-family:Arial;
+}
+.team h5{
+    margin-left: 15%;
+    font-weight: lighter;
+    font-size: medium;
+    color:gray;
+    line-height: 1%;
+    font-family: Arial;
+}
+.circles{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.circle1{
+    width:250px;
+    height:250px;
+    background-color: #006666;
+    border-radius: 50%;
+    box-sizing: border-box;
+
+
+}
+.content1{
+    font-size: small;
+    margin-right: 40%;
+    position: absolute;
+    width:inherit;
+    height:auto;
+    left:200px;
+    color:black;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+
+}
+.circle2{
+    width:250px;
+    height:250px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid yellow;
+    box-sizing: content-box;
+    
+
+
+}
+.content2{
+    font-size: small;
+    margin-left: 30%;
+    position: absolute;
+    width:inherit;
+    height:20%;
+    left:200px;
+    text-align: center;
+    color:grey;
+    
+    
+}
+.circle3{
+    width:250px;
+    height:250px;
+    background-color: #006666;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.content3{
+    font-size: small;
+    margin-left: 60%;
+    position: absolute;
+    width:inherit;
+    height:auto;
+    left:200px;
+    text-align: center;
+    color:white;
+}
+.text h1{
+    margin-left:25% ;
+    color:#006666;
+    font-family: Arial;
+
+}
+.text p{
+    margin-left: 20%;
+    font-weight: lighter;
+    font-size: medium;
+    color:gray;
+    font-family: Arial;
+}
+.text h5{
+    margin-left: 10%;
+    font-weight: lighter;
+    font-size: medium;
+    color:gray;
+    line-height: 1%;
+    font-family: Arial;
+}
+.multiple{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    margin-left: 3%;
+}
+.multiple h3{
+    font-weight: bolder;
+    color: #006666;
+}
+.multple h5{
+    font-weight: lighter;
+    color: gray;
+}
+.sector h5{
+    font-weight: lighter;
+    color: gray;
+    font-family: Arial;
+}
+.multiples{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    
+}
+.multiples h3{
+    font-weight: bolder;
+    color: #006666;
+}
+.sector1 h5{
+    font-weight: lighter;
+    color: gray;
+    font-family: Arial;
+}
+.consult{
+    background-color: rgb(193, 185, 185);
+    display: flex;
+    justify-content: space-evenly;
+    height: 400px;
+}
+.new-text{
+    margin-left: 0.5%;
+    color: #006666;
+    font-family: Arial;
+    font-weight: bolder;
+}
+.job{
+    
+    color: black;
+    font-family: Arial;
+    font-weight: lighter; 
+}
+.consult-image{
+    height: 100px;
+}
+.thoughts{
+    background-color: rgb(239, 234, 234);
+    
+}
+.best{
+    margin-left: 30%;
+    color: #006666;
+    font-family: Arial;
+    font-weight: bolder;
+}
+.happy{
+    display:flex;
+    justify-content:space-evenly;
+    background-color: white;
+    color: grey;
+    font-family: Arial;
+}
+.client{
+    color: black;
+    font-weight: lighter; 
+    font-family: Arial;
+    margin-left: 15%;
+}
+div.image1{
+    height:100px;
+    width: 500px;
+    margin-right: 20%;
+}
+.blog{
+    margin-left: 40%;
+    color: #006666;
+    font-family: Arial;
+}
+.blog1{
+    color: grey;
+    margin-left: 20%;
+}
+.blog1 p{
+    margin-left: 20%;
+}
+.card4{
+    display: flex;
+    justify-content: space-between;
+}
+.button1{
+    margin-left:80%;
+}
+.last{
+    background-color: #006666;
+}
+.last h1{
+    color: white;
+    font-family: Arial;
+    font-size: larger;
+}
+.last1{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.links {
+    list-style: none;
+}
+.industry1{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.list2{
+    display: flex;
+    justify-content: column;
+    list-style: none;
+}
+.letter{
+    color: #53cfcf;
+    margin-left: 10%;
+}
+.letter1{
+    color: #53cfcf;
+
+}
